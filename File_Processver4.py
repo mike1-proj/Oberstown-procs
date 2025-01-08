@@ -16,7 +16,7 @@ individual cells. However, by clever use of a loop we can format all the cells i
 the same result. Then, another piece of code is used at the end to get the column width correct for meter title column 
 in each xl export file.This code version is for use with Oberstown BMS supervisor PC 
 directory paths only. I have omitted the CSV export code so it only exports as Excel xlsx
-this version 4 corrects minor code errors in line 711 for unit 6 08/01/2024"""
+this version 4 corrects minor code errors in line 711 for unit 6 water meter 08/01/2024"""
 
 
 def show_message():
